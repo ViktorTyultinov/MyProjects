@@ -1,0 +1,15 @@
+<CATALOG>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан ID500 - 4 m. - 5000 kg.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 1 тон 5 метра с кука</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 1 тон - 6 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 2 тона - 4 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 2 тона - 5 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 3 тона - 4 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 3 тона - 6 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 3 тона - 5 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 5 тона - 2 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен 5 тона - 3 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Колани</GROUP><NAME>Колан полиестерен за притягане на товари 5 тона 10 метра с тресчотка</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Разни</GROUP><NAME>Сапан едновъжен Ф 8 mm. x 1500 mm.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Полиестерни колани</CATEGORY><GROUP>Разни</GROUP><NAME>Сапан едновъжен Ф 10 mm. x 1500 mm.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+</CATALOG>

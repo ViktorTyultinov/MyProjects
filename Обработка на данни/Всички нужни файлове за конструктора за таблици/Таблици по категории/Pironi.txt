@@ -1,0 +1,37 @@
+<CATALOG>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за директен монтаж B47</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 40</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 50</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване в дърво 4 х 50</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 60</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 70</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 80</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 х 11 - зелен</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 x 11 - червен</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 x 11 -  жълт</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 x 18 - червен</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон шпилка GD 8 / 15 / 4</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон KDN 30</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон KDN 30 / с шайба Ф 23</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон KDN 40</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон KDN 50</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон KDN 60</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за директен монтаж KR / 25 S12</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за директен монтаж KR / 35 S12</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за директен монтаж KR / 45 S12</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за директен монтаж KR / 50 S12</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 х 11 - черен</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Стоманени пирони за ръчно коване 3.4 х 55 Don Quichotte - 100 бр.</NAME><PACK>4 х 55 Don Quichotte - 100 бр."</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Стоманени пирони за ръчно коване 3.5 х 50 Don Quichotte - 1 кг.</NAME><PACK>5 х 50 Don Quichotte - 1 кг."</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Стоманени пирони за ръчно коване 3.5 х 60 Don Quichotte - 1 кг.</NAME><PACK>5 х 60 Don Quichotte - 1 кг."</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за метал EDNI 19 P8</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирон за метал X - ENP-19L15 MX Hilti</NAME><PACK>1000</PACK><DELIVERY>1000</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Заряди</GROUP><NAME>Заряд 6.8 х 18 - син</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 4 х 50</NAME><PACK>2.5</PACK><DELIVERY>2.5</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за директен монтаж</GROUP><NAME>Пирони и газ за SPIT P700 С6-25</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирони за битумни керемиди 2.8 x 25 широка периферия</NAME><PACK>8 x 25 широка периферия"</PACK><DELIVERY>2000</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 2.5 х 25</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 2.8 х 60</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 3.1 х 70</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Пирони за монтаж</CATEGORY><GROUP>Пирони за ръчно коване</GROUP><NAME>Пирон за ръчно коване 2.5 х 50</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+</CATALOG>

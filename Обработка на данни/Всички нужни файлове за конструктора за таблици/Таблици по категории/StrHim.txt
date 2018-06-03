@@ -1,0 +1,25 @@
+<CATALOG>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MSI-NP  Neutral Silicone fungus-inhibiting transp</NAME><PACK>24</PACK><DELIVERY>24</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MSI-NP  Neutral Silicone fungus-inhibiting white</NAME><PACK>24</PACK><DELIVERY>24</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MSI-N  Neutral Silicone grey</NAME><PACK>24</PACK><DELIVERY>24</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MSI-N  Neutral Silicone dark brown</NAME><PACK>24</PACK><DELIVERY>24</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MDA  Acryl Sealant</NAME><PACK>24</PACK><DELIVERY>24</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MMK-A  Acryl Adhesive</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон MMK-P  Polyurethane Adhesive</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пяна MPU-2K  2-Comp. PU-Foam. B2. manual</NAME><PACK> B2</PACK><DELIVERY> manual"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пяна MPU-P 50/B1  Fire Barrier Foam. B1. for gun</NAME><PACK> B1</PACK><DELIVERY> for gun"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пяна MPU-M 50  PU-Foam manual</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пяна MPU-P 50  PU-Foam for gun</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пяна Termopur 700 ml - за пистолет</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Чистител MRM-PU  Cleaner</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пистолет MPP-M  Metal gun</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Пяна</GROUP><NAME>Пистолет MPP-K  Nylon/Metal gun</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон акрилен моментен</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон санитарен бял 300 мл</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Монтажно лепило</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Пистолет за силикон 300 ml.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон високотемпературен</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон ацетатен безцветен TKK 280 ml.</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон неутрален безцветен TKK 280 ml.</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Строителна химия</CATEGORY><GROUP>Силикон</GROUP><NAME>Силикон ацетатен бял TKK 280 ml.</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+</CATALOG>

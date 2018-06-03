@@ -1,0 +1,17 @@
+<CATALOG>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ръкавици</GROUP><NAME>Ръкавици с латексово покритие KLEENGUARD 10</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ръкавици</GROUP><NAME>Ръкавици с латексово покритие KLEENGUARD 11</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Колани</GROUP><NAME>Колан със сбруя В-103S</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ботуши</GROUP><NAME>Ботуши дълги черни BARRY  PVC - 43</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ботуши</GROUP><NAME>Ботуши дълги черни PVC - 43</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Разни</GROUP><NAME>Наметало PVC зелено XXL</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ръкавици</GROUP><NAME>Ръкавици Dipper Eco</NAME><PACK>12</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ръкавици</GROUP><NAME>Ръкавици Starling - Латекс</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Разни</GROUP><NAME>Карабинка за колан предпазен</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Разни</GROUP><NAME>Щит за заварчик околожка PVC</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Разни</GROUP><NAME>Радиостанция Cobra МТ 975</NAME><PACK>2</PACK><DELIVERY>2</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Разни</GROUP><NAME>Въже обезопасително - 2 метра</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Колани</GROUP><NAME>Раменнобедрен колан със сбруя B-</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Очила</GROUP><NAME>Предпазни очила 08 Decorex</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Лични предпазни средства</CATEGORY><GROUP>Ръкавици</GROUP><NAME>Ръкавици за заварчици</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+</CATALOG>

@@ -1,0 +1,133 @@
+﻿<CATALOG>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Уплътняваща тапа за отвори в кофраж Ф18 - Ф22</NAME><PACK>1000</PACK><DELIVERY>1000</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Уплътняваща тапа за отвори в кофраж Ф22 - Ф25</NAME><PACK>500</PACK><DELIVERY>500</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Уплътняваща тапа за отвори Ф23</NAME><PACK>500</PACK><DELIVERY>500</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>KD - Система / 2.5 кг./</NAME><PACK>5 кг./"</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>KD 1 Основа / 15 кг /</NAME><PACK>15</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>KD 2 Блиц Кьостер / 15 / кг</NAME><PACK>15</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>KD 3 Изолация Кьостер / 12 / кг</NAME><PACK>12</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>N - пакер</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сепарол W-340 /20 л. - кофражно масло</NAME><PACK>20</PACK><DELIVERY>20</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сепарол N AT /20</NAME><PACK>20</PACK><DELIVERY>20</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сепарол N AT / 200</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Алуминиев ъгъл с мрежа за изолация</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Микроармиращи фибри</NAME><PACK>1</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Армировъчна мрежа R100 5.0 x 5.0</NAME><PACK>0 x 5</PACK><DELIVERY>0"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Армиривъчна мрежаR 47 2.5 x 2.5</NAME><PACK>5 x 2</PACK><DELIVERY>5"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Армировъчна мрежа R60 5.0 x 5.0</NAME><PACK>0 x 5</PACK><DELIVERY>0"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Бороконтакт 1 л.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Четка за нанасяне на ватерблок</NAME><PACK>1</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация ф 8 х 70 mm.</NAME><PACK>1500</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация ф 8 х 110 mm.</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Дюза бяла</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за топлоизолация TID-T 8/60 x 235 L</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Шайба за метален фиксатор 80 мм DMT</NAME><PACK>250</PACK><DELIVERY>250</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Фиксатор метален 8 х 140 DMH</NAME><PACK>250</PACK><DELIVERY>250</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Еластобонд 600 мл. бял</NAME><PACK>15</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Уплътняваща маса за фуги - черна</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Уплътняваща маса за фуги - сива</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Уплътняваща маса за фуги - бяла</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Пистолет за монтаж на Elastotan</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Лента хидроизолационна за съединяване 150 мм х 10 м</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за топлоизолация 8 х 70</NAME><PACK>500</PACK><DELIVERY>500</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация 8 х 130</NAME><PACK>500</PACK><DELIVERY>500</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация с метален пирон 10 х 140</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация с метален пирон 10 х 160 / 10 х 180</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация с метален пирон 10 х 200</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация с метален пирон 10 х 220</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за вата с пирон 10 х 90</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>"Дюбел за изолация в тухлатип "" Елха "" 10 x 100 mm."</NAME><PACK>25</PACK><DELIVERY>25</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>"Дюбел за изолация в тухлатип "" Елха "" 10 x 120 mm."</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за вата с пирон 10 х 180</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за вата с пирон 10 х 110</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за вата с пирон 10 х 120</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за топлоизолация с пластмасов пирон 10 х 140</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за топлоизолация с пластмасов пирон 10 х 160</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Изолационна лента 4 / 15 с лепяща лента</NAME><PACK>120</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Кабарче за прихващане на мрежа PVC</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>"Кофражно масло "" Декофрин 120"""</NAME><PACK>20</PACK><DELIVERY>20</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Инжекционен маркуч D-1</NAME><PACK>100</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Кварцов пясък 0.1 - 0.25 мм</NAME><PACK>1 - 0</PACK><DELIVERY>25 мм"</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Високо якостно лепило за мокри зони Lastostick</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Лента за снадката на гипсокартон</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Монтаж стик 280 ml. лепило с висока якост</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф 6 mm.</NAME><PACK>250</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф 10 mm.</NAME><PACK>100</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф 20 mm.</NAME><PACK>100</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто  въже  Ф 25 mm.</NAME><PACK>100</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф30 mm.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф40 mm.</NAME><PACK>20</PACK><DELIVERY>20</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Микропоресто въже Ф 50 mm.</NAME><PACK>65</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Минерална вата</GROUP><NAME>Твърда минерална вата 120кг. 4см.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Минерална вата</GROUP><NAME>Мека минерална вата 30 кг. 5см.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Минерална вата</GROUP><NAME>Полутвърда минерална вата 75 кг. 4 см.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Палмсийл - 75 - опаковка 3 kg</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Праймер EP - W A+B 4 кг.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Битумна мушама P Min Grey</NAME><PACK>10</PACK><DELIVERY>10</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Антифриз 1 % - 5 l</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Антифриз 1 % - 25 l</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Антифриз 1 % - варел 250 кг</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Bind Foam Fix Полиуретанова пяна 750 ml.</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Bond Universal AT 300 - сив</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Козметик</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Фастфикс - 138/25 кг.</NAME><PACK>25</PACK><DELIVERY>25</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлекс АТ Кънекшън беж / 600 ml.</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлекс PRO-3 сив / 600 ml.</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Фугафлекс 1113 бетоново сив 5 kg.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Latex Емулсия за подобряване на сцеплението</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Моноплуг TR/5</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika MonoTop 610 ремонтен състав</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika MonoTop 612 ремонтен състав</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika MonoTop 620 ремонтен състав</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Праймер - 3N - 250 ml</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Рапид -1 ES / 5</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>SikaRefit® - Еднокомпонентен полимерциментен строителен разтвор с ускорено втвърдяване</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika® TopClean-T - Почистващи кърпи 50 бр. в туба</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлекс Танк- N сив 600 ml.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika-4a TR / 35</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика AnhorFix3+</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Бондинг Праймер AB / 15</NAME><PACK>15</PACK><DELIVERY>15</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикадур - 31 CF /AB/ Нормал/6 парт.N 0012351253</NAME><PACK>30</PACK><DELIVERY>30</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sikaflex® PRO-3 - химически и механично устойчив фугоуплътнител /600 ml/</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sikaflex PRO-3 WF - химически и водоустойчиво лепило - фугоуплътнител /600 ml/</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>"Сикафлекс  ""Construction +""  еластичен фугоуплътнител  - 600 ml"</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлекс - 11FC+ кафяв /300 ml.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлекс - 11FC+ кафяв /600 ml.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлор- 156 / 10</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Floor- 3 Кварц Топ / Чапдур/ натурал TR/25</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлор - 381 RAL 7032 / 25</NAME><PACK>25</PACK><DELIVERY>25</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикафлор - 400-N + RAL7032 / 6 л.</NAME><PACK>6</PACK><DELIVERY>6</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Фуко VT-2 / 125 m Маркуч за инжектиране на разтвори 10</NAME><PACK>125</PACK><DELIVERY>125</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикагард 205 W /Steriseen/ бял</NAME><PACK>15</PACK><DELIVERY>15</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Двукомпонентно защитно покритие Sikagard®-63_N</NAME><PACK>10</PACK><DELIVERY>10</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикагард - 680 S + RAL7035</NAME><PACK>30</PACK><DELIVERY>30</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сикагард 700S / 5л</NAME><PACK>5</PACK><DELIVERY>5</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>SikaGrout 210 / 214 Висококачествен. набъбващ разтвор за заливане с ниска степен на свиване</NAME><PACK> 1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Grout 312 А  Материал за заливане</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Grout 312 RFA / 25 материал за заливане</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika Layer 03 - подложка 25 м2 - ролка</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Sika® MonoTop®-612 ремонтен състав</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Мултисил Т 10/10 м  алуминий</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>SikaSeal - 210 Migrating / 25 кг</NAME><PACK>25</PACK><DELIVERY>25</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Суел А-2010 / 10 m.</NAME><PACK>10</PACK><DELIVERY>10</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Суел Р-2507Н / 10 m.</NAME><PACK>10</PACK><DELIVERY>10</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Swell S2 / 600 ml</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>SikaTop® Seal-107 (AB) сив</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>SikaTop® Seal-107 Elastic полимерциментен състав модифициран със специални синтетични полимери</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Сика</GROUP><NAME>Сика Уотърбар О - 20 / 15 м</NAME><PACK>15</PACK><DELIVERY>15</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Стиропор за  изолация</GROUP><NAME>Стиропор 12-15кг/куб.м.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Стиропор за  изолация</GROUP><NAME>Стиропор 15-18 кг/куб.м.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Стиропор за  изолация</GROUP><NAME>Стиропор 18-20 кг/куб.м.</NAME><PACK>0</PACK><DELIVERY>0</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Лепила и шпакловки</GROUP><NAME>Термоковер сив 25кг. за шпакловка</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Лепила и шпакловки</GROUP><NAME>Термоковер II сив 25кг.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Лепила и шпакловки</GROUP><NAME>Ватерблок сив 25 кг.</NAME><PACK>1</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Бързовтърдяваща.полимерномодифицирана  иармирана с полипропиленови влакна  циментова замаска</NAME><PACK>25</PACK><DELIVERY>25</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Свързващ слой за ремонтно-реставрационен разтвор</NAME><PACK>60</PACK><DELIVERY>60</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Лепила и шпакловки</GROUP><NAME>Еластификатор</NAME><PACK>12</PACK><DELIVERY>12</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Химически продукти</GROUP><NAME>Противозамръзваща добавка за бетон VIMATOL-BE</NAME><PACK>20</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Шайба за толоизолация метална Ф50</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Шайба за изолация пластмасова 50 мм</NAME><PACK>200</PACK><DELIVERY>200</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Шайба пласмасова за топлоизолация TDX - 140</NAME><PACK>700</PACK><DELIVERY>1</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Шайба пласмасова за топлоизолация TDP - 60</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+<ITEM><CATEGORY>Изолационни материали</CATEGORY><GROUP>Дюбели за изолация и аксесоари</GROUP><NAME>Дюбел за изолация с пластмасов пирон 10 х 220</NAME><PACK>100</PACK><DELIVERY>100</DELIVERY><PRICE>999999</PRICE></ITEM>
+</CATALOG>
